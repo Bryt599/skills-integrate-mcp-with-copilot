@@ -164,6 +164,27 @@ button:hover {
   background-color: #3949ab;
 }
 
+.auth-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+#login-panel {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #e8f0fe;
+  border: 1px solid #c5cae9;
+  border-radius: 5px;
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
